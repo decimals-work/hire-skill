@@ -1,0 +1,24 @@
+{
+  "name": "decimals",
+  "description": "Hire a designer, from the job spec to an accepted offer. By Decimals.",
+  "owner": {
+    "name": "Decimals"
+  },
+  "plugins": [
+    {
+      "name": "hire-a-designer",
+      "description": "A coach for hiring designers: a spec written as a pitch, a shortlist on the work, fast interviews with no surprises, a paid work trial and an offer that lands.",
+      "source": "./skills",
+      "skills": [
+        "./"
+      ],
+      "author": {
+        "name": "Decimals"
+      },
+      "version": "1.0.0",
+      "homepage": "https://github.com/decimals-work/hire-skill",
+      "repository": "https://github.com/decimals-work/hire-skill",
+      "license": "MIT"
+    }
+  ]
+}
